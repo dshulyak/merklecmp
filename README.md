@@ -52,7 +52,7 @@ Only two plots are available:
 Plots are stored in `_assets` directory. Example, commision of 10,000 entries:
 
 
-![time](_assets/_assets/time-ipu-10000.png)
+![time](_assets/time-ipu-10000.png)
 
 Separate plot for urkel:
 
